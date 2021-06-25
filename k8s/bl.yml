@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/takupaca/citest:64dcd65dafbbb953549d2496d50c53cf98e8b2ab
+      - image: docker.io/takupaca/citest:14069c32311f0a9ef4ffaa4abc83408ffbcb8bbe
         name: blue
         ports:
           - containerPort: 80
